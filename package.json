@@ -10,7 +10,10 @@
     "node": "~0.4.12"
   },
   "dependencies": {
-    "request": "2.2.x"
+    "request": "2.2.x",
+    "underscore": "1.2.x"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "mocha": "0.4.x"
+  }
 }
