@@ -2,7 +2,7 @@
   "author": "Conner Petzold <cpetzold@gmail.com> (http://the0th.com)",
   "name": "zappos",
   "description": "Zappos nodejs client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": ""
   },
